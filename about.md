@@ -71,7 +71,7 @@ date: 2017-04-23
         .shang_info p,.shang_info a{color:#C3C3C3;text-align:center;font-size:12px;text-decoration:none;line-height:2em;}
     </style>
 </head>
-
+<!DOCTYPE html>
 <body>
     <div class="content">
     <p><a href="javascript:void(0)" onclick="dashangToggle()" class="dashang" title="打赏，支持一下">打赏</a></p>
