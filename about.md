@@ -98,7 +98,7 @@ date: 2017-04-23
         </div>
         <div class="shang_info">
             <p>打开<span id="shang_pay_txt">支付宝</span>扫一扫，即可进行扫码打赏哦</p>
-            <p>Powered by <a href="www.jp3dRobin.github.io" target="_blank" title="郭锅">郭锅</a>，分享从这里开始，精彩与您同在</p>
+            <p>Powered by <a href="https://jp3drobin.github.io/" target="_blank" title="郭锅">郭锅</a>，分享从这里开始，精彩与您同在</p>
         </div>
     </div>
     </div>

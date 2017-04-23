@@ -6,19 +6,19 @@ description: Welcome come to my blog~
 avatarTitle: Guoguo   
 # 头像里面的描述
 avatarDesc: 千杯醉不倒，唯我酒剑仙
-url: "http://www.jp3dRobin.github.io"
+url: "https://jp3drobin.github.io/"
 
  #Comment
  #comment:
  #   provider: duoshuo
  #   duoshuo:
-  #  short_name: robotkang
+  #  short_name: 
 
 # Social
 social:
     weibo: 89386058@qq.com
     weixing: aminp1    
-    github: jp3dRobin
+    github: jp3drobin
     twitter: Roban666
     mail: hnlyprogrammer@gmail.com
  #   csdn:
