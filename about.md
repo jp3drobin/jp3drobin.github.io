@@ -18,7 +18,7 @@ date: 2017-04-23
 <h3> 业余时间</h3>   
 
 <p>
-苦逼天天加班工作，拿着保障基本生活工资 - -！
+苦逼天天加班工作 - -！
 <p>
 美剧，健身，敲代码算是我的全部业余生活了。
 
@@ -38,7 +38,7 @@ date: 2017-04-23
 
 <p> 
 
-博客源码在 <a target="_blank" href='https://github.com/jp3dRobin/jp3dRobin.github.io/' target="_blank" >Github</a> 上，你的 Star 是我更新的动力，谢谢~
+博客源码在 <a target="_blank" href='https://jp3drobin.github.io/' target="_blank" >Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
 <h3> 联系方式 </h3>   
 <p>邮箱：hnlyprogrammer@gmail.com   &emsp;微信：aminp1
