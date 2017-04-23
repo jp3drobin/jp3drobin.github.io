@@ -44,7 +44,9 @@ date: 2017-04-23
 <p>邮箱：hnlyprogrammer@gmail.com   &emsp;微信：aminp1
 <p>
 
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
+
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/1.6.4/jquery.min.js"></script>
@@ -71,7 +73,7 @@ date: 2017-04-23
         .shang_info p,.shang_info a{color:#C3C3C3;text-align:center;font-size:12px;text-decoration:none;line-height:2em;}
     </style>
 </head>
-<!DOCTYPE html>
+
 <body>
     <div class="content">
     <p><a href="javascript:void(0)" onclick="dashangToggle()" class="dashang" title="打赏，支持一下">打赏</a></p>
@@ -116,9 +118,11 @@ date: 2017-04-23
         $(".shang_box").fadeToggle();
     }
     </script>
-   
 </body>
 </html>
+
+   
+
 
 
 
