@@ -4,7 +4,7 @@ title: 关于我
 date: 2017-04-23  
 ---
 
-！[about me](/images/about.jpg)
+![about me](/images/about.jpg)
 <p>
 一个自学者，没事喜欢琢磨一些新技术
 
