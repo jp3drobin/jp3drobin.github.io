@@ -23,7 +23,7 @@ date: 2017-04-23
 美剧，健身，敲代码算是我的全部业余生活了。
 
 <p>
-年龄不大不小自学JAVA，努力努力~~。
+自学JAVA，努力ing~~。
 <p>
 
 <h3>其他 </h3>   
@@ -38,7 +38,7 @@ date: 2017-04-23
 
 <p> 
 
-用了disqus的评论插件，速度不太理想~~
+用了disqus的评论插件，由于某些原因必须找梯子才能看到，正在进行努力改进！
 <p>
 不过欢迎到我的主要上来，你的 Star 是我更新的动力，谢谢~
 
@@ -48,8 +48,8 @@ date: 2017-04-23
 {% include dashang.html %}
 
 <div id="disqus_thread"></div>
-<script>
 
+<script>
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
 s.src = 'https://guoguox.disqus.com/embed.js';

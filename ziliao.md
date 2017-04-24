@@ -14,7 +14,9 @@ title: 资源
 <h3> 建站资源</h3>   
 <P>
 <a href="http://jekyllthemes.org"  > Jekyll主题合集</a>我用的就是jekyll。      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hexojs/hexo/wiki/Themes" target="_blank"> Hexo主题合集</a>使用方法里面
-都有详细的介绍，我就不多说了。      
+都有详细的介绍，我就不多说了。  
+<p>
+<a href="http://www.bootcss.com/"  >Bootstrap中文网</a>很多有用的资料。    
 <p><a href="http://wiki.xiaolei.tech" target="_blank" > Xiaolei's Wiki </a>一个个人的维基百科库，相当给力！    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/litten/hexo-theme-yilia" target="_blank" > Yilia </a>- Responsive and simple style 优雅简洁响应式主题。
  <p>
