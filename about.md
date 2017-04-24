@@ -38,7 +38,9 @@ date: 2017-04-23
 
 <p> 
 
-博客源码在 <a target="_blank" href='https://jp3drobin.github.io/' target="_blank" >Github</a> 上，你的 Star 是我更新的动力，谢谢~
+用了disqus的评论插件，速度不太理想~~
+<p>
+不过欢迎到我的主要上来，你的 Star 是我更新的动力，谢谢~
 
 <h3> 联系方式 </h3>   
 <p>邮箱：hnlyprogrammer@gmail.com   &emsp;微信：aminp1
@@ -55,6 +57,7 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
+<script id="dsq-count-scr" src="//guoguox.disqus.com/count.js" async></script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                                 
 
